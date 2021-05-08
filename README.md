@@ -10,4 +10,4 @@
 ##### 3. Open the terminal and install all required dependencies with ***`npm i`*** #####
 ##### 4. type ***`npm start`*** to the app #####
 
- ###### 😉 *Enjoy Searching Your GitHub Friends !* 😉 ######
+ ###### 😉 *Enjoy Searching Your GitHub Friends !!* 😉 ######
