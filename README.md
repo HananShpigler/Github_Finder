@@ -1,8 +1,8 @@
 # GitHub Finder
 ***A simple github finder app where you can search github profiles and view the profile details.***
 
-<img src="images/1.png" width=500>
-<img src="images/2.png" width=500>
+<img src="images/1.png" width=400>
+<img src="images/2.png" width=400>
 
 ## Instructions
 ##### 1. Clone ***( using `git clone` )*** or Download the folder ***( using ***`Download ZIP`*** option )*** #####
